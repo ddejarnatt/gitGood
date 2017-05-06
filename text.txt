@@ -1,1 +1,3 @@
-Hello there, I’m trying to git good.
+Hello dare, I’m trying to git good.
+
+Let’s add a few lines, shall we?
